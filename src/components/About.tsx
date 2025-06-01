@@ -52,14 +52,12 @@ const About = () => {
           
           <div className="relative">
             <div className="w-full h-96 bg-gradient-to-br from-purple-400 to-cyan-400 rounded-2xl p-1">
-              <div className="w-full h-full bg-white rounded-2xl flex items-center justify-center">
-                <div className="text-center">
-                  <div className="w-32 h-32 bg-gradient-to-br from-purple-500 to-cyan-500 rounded-full mx-auto mb-6 flex items-center justify-center">
-                    <span className="text-4xl font-bold text-white">RS</span>
-                  </div>
-                  <h3 className="text-2xl font-bold text-gray-800 mb-2">Ritu Singh</h3>
-                  <p className="text-gray-600">CSE Student & Developer</p>
-                </div>
+              <div className="w-full h-full bg-white rounded-2xl flex items-center justify-center overflow-hidden">
+                <img 
+                  src="/lovable-uploads/9e0e5c99-07d3-4b9c-8dd4-a93da4d1502f.png" 
+                  alt="Ritu Singh"
+                  className="w-full h-full object-cover rounded-2xl"
+                />
               </div>
             </div>
           </div>

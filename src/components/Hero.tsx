@@ -16,10 +16,12 @@ const Hero = () => {
         <div className="animate-fade-in">
           <div className="mb-8">
             <div className="w-40 h-40 mx-auto rounded-full bg-gradient-to-r from-purple-400 to-cyan-400 p-1 animate-scale-in">
-              <div className="w-full h-full bg-slate-900 rounded-full flex items-center justify-center">
-                <span className="text-6xl font-bold bg-gradient-to-r from-purple-400 to-cyan-400 bg-clip-text text-transparent">
-                  RS
-                </span>
+              <div className="w-full h-full bg-slate-900 rounded-full flex items-center justify-center overflow-hidden">
+                <img 
+                  src="/lovable-uploads/9e0e5c99-07d3-4b9c-8dd4-a93da4d1502f.png" 
+                  alt="Ritu Singh"
+                  className="w-full h-full object-cover rounded-full"
+                />
               </div>
             </div>
           </div>
