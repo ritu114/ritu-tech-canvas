@@ -47,7 +47,7 @@ const Hero = () => {
             </button>
             
             <a 
-              href="https://linkedin.com/in/ritu-singh" 
+              href="https://www.linkedin.com/in/ritu-singh-11r10s04" 
               target="_blank" 
               rel="noopener noreferrer"
               className="group bg-white/10 backdrop-blur-sm text-white px-8 py-4 rounded-full font-semibold transition-all duration-300 hover:scale-105 hover:bg-white/20 border border-white/20"

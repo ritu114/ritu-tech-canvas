@@ -76,7 +76,7 @@ const Contact = () => {
             <div>
               <h4 className="text-xl font-bold text-white mb-4">Follow Me</h4>
               <div className="flex space-x-4">
-                <a href="https://linkedin.com/in/ritu-singh" className="w-12 h-12 bg-white/10 backdrop-blur-sm rounded-full flex items-center justify-center hover:bg-white/20 transition-colors duration-300">
+                <a href="https://www.linkedin.com/in/ritu-singh-11r10s04" target="_blank" rel="noopener noreferrer" className="w-12 h-12 bg-white/10 backdrop-blur-sm rounded-full flex items-center justify-center hover:bg-white/20 transition-colors duration-300">
                   <Linkedin className="w-6 h-6 text-white" />
                 </a>
                 <a href="https://github.com/ritu-singh" className="w-12 h-12 bg-white/10 backdrop-blur-sm rounded-full flex items-center justify-center hover:bg-white/20 transition-colors duration-300">
