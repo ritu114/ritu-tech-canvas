@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { Mail, Phone, MapPin, Send, Linkedin, Github } from 'lucide-react';
 
@@ -47,7 +46,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <p className="text-gray-300">Email</p>
-                    <p className="text-white font-semibold">ritu.singh@example.com</p>
+                    <p className="text-white font-semibold">singhritu63645@gmail.com</p>
                   </div>
                 </div>
                 
@@ -86,7 +85,6 @@ const Contact = () => {
             </div>
           </div>
           
-          {/* Contact Form */}
           <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-8 border border-white/20">
             <h3 className="text-2xl font-bold text-white mb-6">Send Message</h3>
             <form onSubmit={handleSubmit} className="space-y-6">
