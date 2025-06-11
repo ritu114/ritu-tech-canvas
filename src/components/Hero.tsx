@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { Download, Linkedin, ChevronDown, Github } from 'lucide-react';
 
@@ -28,7 +29,7 @@ const Hero = () => {
         <div class="header">
           <div class="name">Ritu Singh</div>
           <div class="contact">B.Tech CSE Student | O.P. Jindal University</div>
-          <div class="contact">Email: ritu.singh@opju.ac.in | Phone: +91-8888464899</div>
+          <div class="contact">Email: singhritu63645@gmail.com | Phone: +91-8839464899</div>
           <div class="contact">Location: Raigarh, Chhattisgarh</div>
           <div class="contact">LinkedIn: linkedin.com/in/ritu-singh-11r10s04</div>
         </div>

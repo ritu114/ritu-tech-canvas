@@ -108,12 +108,12 @@ const Resume = () => {
               <div className="bg-white p-4 rounded-lg shadow-md border border-purple-100">
                 <Mail className="w-6 h-6 text-purple-600 mb-2" />
                 <p className="text-sm text-gray-600">Email</p>
-                <p className="font-semibold text-gray-800">ritu.singh@opju.ac.in</p>
+                <p className="font-semibold text-gray-800">singhritu63645@gmail.com</p>
               </div>
               <div className="bg-white p-4 rounded-lg shadow-md border border-cyan-100">
                 <Phone className="w-6 h-6 text-cyan-600 mb-2" />
                 <p className="text-sm text-gray-600">Phone</p>
-                <p className="font-semibold text-gray-800">+91-8888464899</p>
+                <p className="font-semibold text-gray-800">+91-8839464899</p>
               </div>
               <div className="bg-white p-4 rounded-lg shadow-md border border-pink-100">
                 <MapPin className="w-6 h-6 text-pink-600 mb-2" />
