@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { Download, Linkedin, ChevronDown } from 'lucide-react';
+import { Download, Linkedin, ChevronDown, Github } from 'lucide-react';
 
 const Hero = () => {
   const handleDownloadResume = () => {
@@ -198,6 +198,18 @@ const Hero = () => {
               <div className="flex items-center gap-2">
                 <Linkedin size={20} />
                 <span>LinkedIn</span>
+              </div>
+            </a>
+
+            <a 
+              href="https://github.com/ritusinghritu" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="group bg-white/10 backdrop-blur-sm text-white px-8 py-4 rounded-full font-semibold transition-all duration-300 hover:scale-105 hover:bg-white/20 border border-white/20"
+            >
+              <div className="flex items-center gap-2">
+                <Github size={20} />
+                <span>GitHub</span>
               </div>
             </a>
           </div>
